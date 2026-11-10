@@ -1,8 +1,6 @@
 # 갤러리 모니터
 
 <ime src="https://github.com/tokis-codex/dcgall-monitoring/blob/main/preview1.png">
-  
-<img src="https://github.com/tokis-codex/dcgall-monitoring/blob/main/preview2.png">
 
 ## 목차
 
