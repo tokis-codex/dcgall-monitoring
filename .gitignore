@@ -1,0 +1,28 @@
+# Private runtime configuration, Telegram credentials and collected records
+config.json
+config.json.*
+monitor_state.sqlite3*
+*.sqlite3-journal
+
+# Local environment / runtime output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+.env
+.env.*
+
+# PyInstaller and GitHub artifact generation
+build/
+build_db/
+dist/
+release/
+*.spec
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
